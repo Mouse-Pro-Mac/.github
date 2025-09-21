@@ -1,7 +1,7 @@
 # Mouse Pro Mac – Advanced Cursor Customization for macOS
 
 <div align="center">  
-<img src="https://static.macupdate.com/products/64707/m/phpmrtoey-logo.png" alt="Mouse Pro Mac Logo" width="200" height="200">  
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7f/5d/f6/7f5df623-647a-4016-4f19-547fccda383b/AppIcon-85-220-0-4-2x.png/1200x630bb.png" alt="Mouse Pro Mac Logo" width="200" height="200">  
 </div>  
 
 <div align="center">  
